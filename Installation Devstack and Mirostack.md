@@ -5,6 +5,7 @@
 ## Setting Up OpenStack
 
 
+![instance page](https://github.com/user-attachments/assets/25e4a3d3-3703-435e-b866-a91f9a37d17d)
 
 
 ##### A) MicroStack   ---------------------------------------------
