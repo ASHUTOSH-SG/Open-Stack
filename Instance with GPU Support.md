@@ -59,6 +59,9 @@ You have Intel VT-d or AMD-Vi enabled in BIOS.
 You configure IOMMU, nova.conf, and create GPU flavors (as in the steps you just noted).
 
 
+KVM is a type 1 hypervisor, which essentially means it is able to run on bare metal. QEMU is a type 2 hypervisor, which means that it runs on top of the operating system. In this case, QEMU will utilize KVM in order to utilize the machine’s physical resources for the virtual machines.
+
+
 
 
 
