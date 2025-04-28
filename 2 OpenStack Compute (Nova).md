@@ -3,10 +3,7 @@
 #### **1. Introduction**  
 - **OpenStack Horizon**: Dashboard for managing OpenStack.  
 - **Compute (Nova)**: Core component responsible for provisioning and managing virtual machines (instances).  
-- **Previous Episode**: Covered Horizon administration.  
-- **This Episode**: Focuses on creating compute instances, snapshots, and managing flavors.  
-
----  
+ ---  
 
 #### **2. Creating a Compute Instance**  
 1. **Log in to Horizon Dashboard**  
